@@ -1,0 +1,14 @@
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/bin/Debug/net9.0/3_data_structure
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/bin/Debug/net9.0/3_data_structure.deps.json
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/bin/Debug/net9.0/3_data_structure.runtimeconfig.json
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/bin/Debug/net9.0/3_data_structure.dll
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/bin/Debug/net9.0/3_data_structure.pdb
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.AssemblyInfoInputs.cache
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.AssemblyInfo.cs
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.csproj.CoreCompileInputs.cache
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.dll
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/refint/3_data_structure.dll
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.pdb
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/3_data_structure.genruntimeconfig.cache
+/Users/rafaelsumiya/Documents/projects/college/3_data_structure/obj/Debug/net9.0/ref/3_data_structure.dll
